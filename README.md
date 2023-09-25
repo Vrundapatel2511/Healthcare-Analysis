@@ -10,7 +10,7 @@
 - Wait Times
 - Healthcare Access
   
-# The challenges of Healthcare Analysis Include:
+# The challenges of Healthcare Analysis
 - Data quality and standardization
 - Data privacy and security
 - Analytical skills and expertise
